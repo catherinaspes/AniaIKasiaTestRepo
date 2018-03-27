@@ -1,1 +1,2 @@
 Oto plik, który mo¿emy modyfikowaæ obie, zobaczymy, co wyjdzie :)
+Wiêc teraz przepinam siê teraz na mastera i robiê zmianê w nowym pliku
